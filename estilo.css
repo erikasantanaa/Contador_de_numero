@@ -1,0 +1,28 @@
+body {
+    background-color:honeydew;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Calistoga', cursive;
+    
+}
+header {
+    color: rgb(12, 12, 12);
+    text-align: center;
+}
+section {
+    background: rgb(166, 207, 198);
+    border-radius: 5px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px black;
+}
+
+select{
+    width: 150px;
+}
+footer {
+    color: rgb(12, 12, 12);
+    text-align: center;
+}
